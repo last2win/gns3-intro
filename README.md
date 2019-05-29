@@ -1,6 +1,6 @@
 # gns3-intro
 详细教程见[GNS3安装和使用教程](https://blog.csdn.net/zhangpeterx/article/details/86407065)     
-需要用到的软件有：
+需要用到的软件有：         
 |Windows|	MacOS|	Virtual Machine|
 |--|--|--|
 |version 2.9(教程版本)|ver 2.1.9|ver 2.1.9||
